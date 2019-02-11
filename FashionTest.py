@@ -1,4 +1,6 @@
 
+# https://www.tensorflow.org/tutorials/keras/basic_classification
+
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
